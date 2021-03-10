@@ -13,7 +13,10 @@
 <p align="center" style="margin-top: 15px;">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#instrucao">Instruções para o Backend</a>
+  <a href="">Instruções para o Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="">Dev Radar Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="">Dev Radar Mobile</a>
+
 </p>
 
 <h1 id="tecnologias">Tecnologias</h1>
@@ -59,3 +62,4 @@ A aplicação precisará se conectar ao Banco NoSQL MongoDB.
         MONGO_PERMISSION= retryWrites=true&w=majority
 
 Feitas as configurações, execute `yarn dev` para que o backend esteja funcionando
+
